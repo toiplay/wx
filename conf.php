@@ -1,5 +1,5 @@
 <?php
-$url=''; 
+$url='https://krachi1.000webhostapp.com'; 
 //điền victim
 
-$max=50;
+$max=1000000000;
